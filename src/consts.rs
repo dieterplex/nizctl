@@ -7,6 +7,7 @@ lazy_static::lazy_static! {
         let mut map = HashMap::new();
         map.insert(0x512a, "atom66");
         map.insert(0x5129, "micro84");
+        map.insert(0x5032, "atom68");
         map
     };
 }
